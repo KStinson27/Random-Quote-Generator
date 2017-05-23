@@ -11,8 +11,8 @@ var quotes = [
 	{ quote: "It is during our darkest moments that we must focus to see the light.",
 	source: "Aristotle"
 	},
-	{ quote: "I'm selfish, impatient, and a little insecure. I make mistakes, I'm out of control, and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.",
-	source: "Marilyn Monroe"
+	{ quote: "Procrastination is the art of keeping up with yesterday.",
+	source: "Don Marquis"
 	},
 	{ quote: "Be brave. Take risks. Nothing can substitute experience.",
 	source: "Paulo Coelho"
